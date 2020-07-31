@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pintura Final</folder>
+	<filename>Las Meninas106.jpg</filename>
+	<path>D:\Taller de proyectos\Pintura Final\Las Meninas106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4100</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Las Meninas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>138</ymin>
+			<xmax>3954</xmax>
+			<ymax>2157</ymax>
+		</bndbox>
+	</object>
+</annotation>

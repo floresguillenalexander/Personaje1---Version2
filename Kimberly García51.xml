@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pintura Final</folder>
+	<filename>Kimberly García51.jpg</filename>
+	<path>D:\Taller de proyectos\Pintura Final\Kimberly García51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KimberlyGarcia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>94</ymin>
+			<xmax>2907</xmax>
+			<ymax>2085</ymax>
+		</bndbox>
+	</object>
+</annotation>

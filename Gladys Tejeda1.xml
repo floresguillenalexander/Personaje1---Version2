@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pintura Final</folder>
+	<filename>Gladys Tejeda1.jpg</filename>
+	<path>D:\Taller de proyectos\Pintura Final\Gladys Tejeda1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GladysTejeda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>898</xmin>
+			<ymin>163</ymin>
+			<xmax>1695</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+</annotation>
